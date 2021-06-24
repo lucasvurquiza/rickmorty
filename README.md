@@ -1,7 +1,5 @@
 # Let's Delivery - Rick & Morty API Search :memo:
 
-
-
 ## Este projeto foi desenvolvido utilizando:
 
 * ### [ReactJS](https://pt-br.reactjs.org/)
@@ -12,9 +10,7 @@
 
 * ### [ContextAPI](https://pt-br.reactjs.org/docs/context.html)
 
-* ### [Hooks](https://pt-br.reactjs.org/docs/hooks-overview.html)
-
-
+* ### [Hooks](https://pt-br.reactjs.org/docs/hooks-overview.html)  
 
 ## Tutorial de Execução
 
@@ -29,9 +25,7 @@
 ### Para interromper a execução:
 
 #### `CTRL+C` Para Linux e Windows
-#### `Command+C` Para MacOS
-
-
+#### `Command+C` Para MacOS  
 
 ### Onde me encontrar:
 
