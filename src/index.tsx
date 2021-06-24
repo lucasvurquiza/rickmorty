@@ -11,7 +11,7 @@ import { Favorites } from "./pages/Favorites";
 ReactDOM.render(
   <BrowserRouter>
     <CharacterProvider>
-      <Route path="/" component={Search} exact />
+      <Route path="/rickmorty" component={Search} exact />
       <Route path="/favorites" component={Favorites} exact />
     </CharacterProvider>
   </BrowserRouter>,
