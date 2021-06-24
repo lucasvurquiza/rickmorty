@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+# Let's Delivery - Rick & Morty API Search :memo:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Este projeto foi desenvolvido utilizando:
 
-### `yarn start`
+* ### [ReactJS](https://pt-br.reactjs.org/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* ### [TypeScript](https://www.typescriptlang.org/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* ### [Axios](https://axios-http.com/)
 
-### `yarn test`
+* ### [ContextAPI](https://pt-br.reactjs.org/docs/context.html)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* ### [Hooks](https://pt-br.reactjs.org/docs/hooks-overview.html)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tutorial de Execução
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Para instalação de dependências execute:
 
-### `yarn eject`
+#### `yarn`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Para executar o projeto use:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### `yarn dev`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Para interromper a execução:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### `CTRL+C` Para Linux e Windows
+#### `Command+C` Para MacOS
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Onde me encontrar:
+
+* ##### [LinkedIn](https://www.linkedin.com/in/lucas-vieira-urquiza)
+
+* ##### [GitHub](https://github.com/lucasvurquiza)
+
+* ##### [Instagram](https://www.instagram.com/lucas_urquiza)
+
+* ##### [Gmail](mailto:urquizaxd@gmail.com)
+
+* ##### [Outlook](mailto:lucasuvie@hotmail.com)
+
+* ##### [WhatsApp](https://api.whatsapp.com/send?phone=5562996559459)
+
