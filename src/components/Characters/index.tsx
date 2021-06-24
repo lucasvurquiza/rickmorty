@@ -26,7 +26,7 @@ export const Characters = ({ lists }: ListsProps) => {
         );
 
         return (
-          <>
+          <div key={character.idCharacter}>
             <CharacterCard
               key={character.idCharacter}
               id={character.idCharacter}
@@ -44,7 +44,7 @@ export const Characters = ({ lists }: ListsProps) => {
                 {isFavorited ? "Desfavoritar" : "Favoritar"}
               </button>
             </CharacterCard>
-          </>
+          </div>
         );
       })}
     </div>
