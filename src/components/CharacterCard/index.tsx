@@ -19,9 +19,9 @@ export const CharacterCard = ({
     <div className="list">
       <img src={picture} alt={name} />
       <div className="list-content">
-        <h2>Nome: {name}</h2>
+        <h2>Name: {name}</h2>
         <h3 hidden>ID: {id}</h3>
-        <h4>Gênero: {gender}</h4>
+        <h4>Gender: {gender}</h4>
       </div>
       <div className="button">{children}</div>
     </div>
